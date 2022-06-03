@@ -1,0 +1,23 @@
+body {
+    background-image: url("src/bg.svg");
+    background-size: cover;
+}
+
+#btn {
+    width: 155px;
+    height: 40px;
+    margin-top: 400px;
+    margin-left: 150px;
+    color: #6a6e6b;
+    font-weight: 1000;
+    border: 0px;
+    border-bottom: 5px;
+    background-color: white;
+    border-bottom-color: #282928;
+    border-style: solid;
+    border-radius: 2px;
+}
+
+#btn:hover {
+    border-bottom-color: #565a56;
+}
