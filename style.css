@@ -1,23 +1,47 @@
-body {
-    background-image: url("bg.svg");
-    background-size: cover;
-}
-
-#btn {
-    width: 155px;
-    height: 40px;
-    margin-top: 27%;
-    margin-left: 10%;
-    color: #6a6e6b;
-    font-weight: 1000;
-    border: 0px;
-    border-bottom: 5px;
-    background-color: white;
-    border-bottom-color: #282928;
-    border-style: solid;
-    border-radius: 2px;
-}
-
-#btn:hover {
-    border-bottom-color: #565a56;
-}
+    @media only screen and (min-width:800px) {
+        body {
+            background-image: url("src/bg.svg");
+            background-size: cover;
+        }
+        #btn {
+            width: 155px;
+            height: 40px;
+            margin-top: 27%;
+            margin-left: 10%;
+            color: #6a6e6b;
+            font-weight: 1000;
+            border: 0px;
+            border-bottom: 5px;
+            background-color: white;
+            border-bottom-color: #282928;
+            border-style: solid;
+            border-radius: 2px;
+        }
+        #btn:hover {
+            border-bottom-color: #565a56;
+        }
+    }
+    
+    @media only screen and (max-width:400px) {
+        body {
+            background-image: url("src/bg3.svg");
+            background-size: cover;
+        }
+        #btn {
+            width: 155px;
+            height: 40px;
+            margin-top: 110%;
+            margin-left: 8%;
+            color: #6a6e6b;
+            font-weight: 1000;
+            border: 0px;
+            border-bottom: 5px;
+            background-color: white;
+            border-bottom-color: #282928;
+            border-style: solid;
+            border-radius: 2px;
+        }
+        #btn:hover {
+            border-bottom-color: #565a56;
+        }
+    }
