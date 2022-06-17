@@ -1,0 +1,19 @@
+<svg width="480" height="800" viewBox="0 0 480 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_8_12)">
+<rect width="480" height="800" fill="white"/>
+<rect y="-22" width="534" height="1024" fill="#D9D9D9"/>
+<rect x="97" y="606" width="449" height="1056" fill="white"/>
+<rect x="267" y="341" width="109" height="297" fill="white"/>
+<rect x="301" y="471" width="179" height="297" fill="white"/>
+<rect width="115" height="171" transform="matrix(-1 0 0 1 502 527)" fill="#868686"/>
+<ellipse cx="323.5" cy="277" rx="83.5" ry="64" transform="rotate(-18.0288 323.5 277)" fill="#868686"/>
+<ellipse cx="376.5" cy="212" rx="126.5" ry="84" fill="#868686"/>
+<ellipse cx="469" cy="127.5" rx="148" ry="121.5" fill="#868686"/>
+<path d="M96.308 331H84.842V300.697H57.347V331H45.764V260.332L55.943 250.153H96.308V331ZM92.096 260.332H57.347V299.293L66.122 290.518H84.842V267.586L92.096 260.332ZM130.243 296.017L159.142 267.469V279.871L148.963 289.933L159.142 300.229V331H147.676V297.772H130.243V331H118.66V248.749L130.243 237.166V296.017ZM205.377 270.277L195.198 280.456H187.944V320.821H202.335V331H186.54L176.361 320.821V280.456H161.97L172.149 270.277H176.361V261.736L187.944 250.153V270.277H205.377Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_8_12">
+<rect width="480" height="800" fill="white"/>
+</clipPath>
+</defs>
+</svg>
