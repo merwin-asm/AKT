@@ -1,6 +1,6 @@
     @media only screen and (min-width:800px) {
         body {
-            background-image: url("bg2.svg");
+            background-image: url("bg1.svg");
             background-size: cover;
         }
         #btn {
