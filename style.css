@@ -24,7 +24,9 @@
     
     @media only screen and (max-width:400px) {
         body {
+
             background-image: url("bg3.svg");
+
             background-size: cover;
         }
         #btn {
