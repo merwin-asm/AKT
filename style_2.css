@@ -1,7 +1,7 @@
         @media only screen and (min-width:800px) {
             body {
                 background-color: #77f78c;
-                background-image: url("src/bg2.svg");
+                background-image: url("bg2.svg");
                 background-size: cover;
             }
             #btn {
@@ -26,7 +26,7 @@
         @media only screen and (max-width:400px) {
             body {
                 background-color: #77f78c;
-                background-image: url("src/bg4.svg");
+                background-image: url("bg4.svg");
                 background-size: cover;
             }
             #btn {
